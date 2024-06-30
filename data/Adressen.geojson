@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "Adressen",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25832" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4326" } },
 "features": [
 { "type": "Feature", "properties": { "full_id": "r5410724", "osm_id": 5410724, "osm_type": "relation", "building": "school", "name": "Anton-von-Bucher-Schule", "amenity": "school", "address": "Geisenfeld,  Parleitener Straße 10", "area": 2166, "demand": 4.0, "demandtype": "aggregated", "XKoordinat": 692010.766, "WE": 2, "GE": 0, "YKoordinat": 5395269.804, "Beförder": null }, "geometry": { "type": "Point", "coordinates": [ 692010.765999999945052, 5395269.803999999538064 ] } },
 { "type": "Feature", "properties": { "full_id": "r11111196", "osm_id": 11111196, "osm_type": "relation", "building": "yes", "name": null, "amenity": null, "address": "Geisenfeld,  Gerbirgisstraße 52", "area": 88, "demand": 1.0, "demandtype": "basic", "XKoordinat": 691326.432, "WE": 3, "GE": 2, "YKoordinat": 5395262.47, "Beförder": 1 }, "geometry": { "type": "Point", "coordinates": [ 691326.432000000029802, 5395262.46999999973923 ] } },
