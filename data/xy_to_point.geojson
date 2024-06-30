@@ -27,7 +27,7 @@
 { "type": "Feature", "properties": { "osm_id": 24, "Beförder": 1, "x_quelle": 11.64, "y_quelle": 48.69, "x_ziel": 11.6, "y_ziel": 48.74 }, "geometry": { "type": "Point", "coordinates": [ 11.6, 48.74 ] } },
 { "type": "Feature", "properties": { "osm_id": 25, "Beförder": 1, "x_quelle": 11.64, "y_quelle": 48.69, "x_ziel": 11.64, "y_ziel": 48.64 }, "geometry": { "type": "Point", "coordinates": [ 11.64, 48.64 ] } },
 { "type": "Feature", "properties": { "osm_id": 26, "Beförder": 1, "x_quelle": 11.64, "y_quelle": 48.69, "x_ziel": 11.59, "y_ziel": 48.65 }, "geometry": { "type": "Point", "coordinates": [ 11.59, 48.65 ] } },
-{ "type": "Feature", "properties": { "osm_id": 100, "Beförder": 1, "x_quelle": 11.64, "y_quelle": 48.69, "x_ziel": 11.64, "y_ziel": null }, "geometry": { "type": "Point", "coordinates": [ 11.64, 48.69 ] } }
+{ "type": "Feature", "properties": { "osm_id": 100, "Beförder": 1, "x_quelle": 11.64, "y_quelle": 48.69, "x_ziel": 11.64, "y_ziel": null }, "geometry": { "type": "Point", "coordinates": [ 11.64, 48.69 ] } },
 { "type": "Feature", "properties": { "osm_id": 1, "Beförder": 1, "x_quelle": 11.64, "y_quelle": 48.69, "x_ziel": 11.64, "y_ziel": 48.7 }, "geometry": { "type": "LineString", "coordinates": [ [ 11.64, 48.69 ], [ 11.64, 48.7 ] ] } },
 { "type": "Feature", "properties": { "osm_id": 3, "Beförder": 1, "x_quelle": 11.64, "y_quelle": 48.69, "x_ziel": 11.62, "y_ziel": 48.69 }, "geometry": { "type": "LineString", "coordinates": [ [ 11.64, 48.69 ], [ 11.62, 48.69 ] ] } },
 { "type": "Feature", "properties": { "osm_id": 4, "Beförder": 1, "x_quelle": 11.64, "y_quelle": 48.69, "x_ziel": 11.62, "y_ziel": 48.68 }, "geometry": { "type": "LineString", "coordinates": [ [ 11.64, 48.69 ], [ 11.62, 48.68 ] ] } },
