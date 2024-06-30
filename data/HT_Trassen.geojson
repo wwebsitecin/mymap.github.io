@@ -339,6 +339,20 @@
 { "type": "Feature", "properties": { "fid": null, "Trasse": "TB unbefestigt", "Cluster_Nr": 3, "Cluster_Nm": "Cluster_3", "Laenge": 67.593 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 11.605850657496399, 48.687722173673393 ], [ 11.605570669223718, 48.687680104637643 ], [ 11.605430857169411, 48.688087458620913 ] ] ] } },
 { "type": "Feature", "properties": { "fid": null, "Trasse": "TB unbefestigt", "Cluster_Nr": 3, "Cluster_Nm": "Cluster_3", "Laenge": 57.759 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 11.605570669223718, 48.687680104637643 ], [ 11.605437136174126, 48.68757179288972 ], [ 11.605560563068851, 48.687201114171202 ] ] ] } },
 { "type": "Feature", "properties": { "fid": null, "Trasse": "TB unbefestigt", "Cluster_Nr": 3, "Cluster_Nm": "Cluster_3", "Laenge": 24.017 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 11.605430857169411, 48.688087458620913 ], [ 11.60535395982312, 48.688297344494089 ] ] ] } },
-{ "type": "Feature", "properties": { "fid": null, "Trasse": "TB unbefestigt", "Cluster_Nr": null, "Cluster_Nm": null, "Laenge": 139.63 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 11.59406292306285, 48.676920844477266 ], [ 11.59413916169064, 48.67729555753413 ], [ 11.59415474077921, 48.677686566612337 ], [ 11.594131725127644, 48.677941021180096 ], [ 11.594065486551855, 48.678168295653698 ] ] ] } }
+{ "type": "Feature", "properties": { "fid": null, "Trasse": "TB unbefestigt", "Cluster_Nr": null, "Cluster_Nm": null, "Laenge": 139.63 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 11.59406292306285, 48.676920844477266 ], [ 11.59413916169064, 48.67729555753413 ], [ 11.59415474077921, 48.677686566612337 ], [ 11.594131725127644, 48.677941021180096 ], [ 11.594065486551855, 48.678168295653698 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 1, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.596173567991011, 48.673371884394392 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.63892750000001, 48.693235799999989 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.633670399999986, 48.691472299999965 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.633251299999987, 48.6935785 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.6362658, 48.693746700000013 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.598267569886913, 48.683408454826719 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.600920080364499, 48.683165364402583 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.603064883844191, 48.681316484161123 ] } },
+{ "type": "Feature", "properties": { "id": 9, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.592776347120216, 48.680146173175814 ] } },
+{ "type": "Feature", "properties": { "id": 10, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.5970857475298, 48.679744548914186 ] } },
+{ "type": "Feature", "properties": { "id": 11, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.595032530432377, 48.681316786313694 ] } },
+{ "type": "Feature", "properties": { "id": 12, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.603886611444908, 48.683428957376776 ] } },
+{ "type": "Feature", "properties": { "id": 13, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.606562958450876, 48.684385398085531 ] } },
+{ "type": "Feature", "properties": { "id": 14, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.606542252533973, 48.686249497777581 ] } }
 ]
 }
