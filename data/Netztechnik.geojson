@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Netztechnik",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.596173567991011, 48.673371884394392 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.63892750000001, 48.693235799999989 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.633670399999986, 48.691472299999965 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.633251299999987, 48.6935785 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.6362658, 48.693746700000013 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.598267569886913, 48.683408454826719 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.600920080364499, 48.683165364402583 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.603064883844191, 48.681316484161123 ] } },
+{ "type": "Feature", "properties": { "id": 9, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.592776347120216, 48.680146173175814 ] } },
+{ "type": "Feature", "properties": { "id": 10, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.5970857475298, 48.679744548914186 ] } },
+{ "type": "Feature", "properties": { "id": 11, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.595032530432377, 48.681316786313694 ] } },
+{ "type": "Feature", "properties": { "id": 12, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.603886611444908, 48.683428957376776 ] } },
+{ "type": "Feature", "properties": { "id": 13, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.606562958450876, 48.684385398085531 ] } },
+{ "type": "Feature", "properties": { "id": 14, "Type": "NVT", "Status": "Planung" }, "geometry": { "type": "Point", "coordinates": [ 11.606542252533973, 48.686249497777581 ] } }
+]
+}
